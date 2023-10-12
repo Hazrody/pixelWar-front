@@ -1,0 +1,6 @@
+<div class="canvas-container">
+  <canvas #canvasElement width="1000" height="700" (click)="changePixelColor($event)"></canvas>
+  <div class="color-palette">
+    <input type="color" [(ngModel)]="selectedColor" />
+  </div>
+</div>
