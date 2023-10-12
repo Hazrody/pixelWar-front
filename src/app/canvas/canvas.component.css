@@ -1,0 +1,12 @@
+/* canvas.component.css */
+.canvas-container {
+  display: flex;
+}
+
+canvas {
+  border: 1px solid #000;
+}
+
+.color-palette {
+  margin-left: 20px;
+}
