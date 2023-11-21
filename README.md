@@ -1,10 +1,7 @@
 ## Development server
 
-Pré-requis: Avoir npm et node.
+DockerFile pour l'installation sinon avoir node 16 et faire un npm install et ensuite un npm start.
 
-Exécuter un npm install.
-
-et ng serve pour lancer le front.
 Il faut avoir le front et le back lancé.
 
 
